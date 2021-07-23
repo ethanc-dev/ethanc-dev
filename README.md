@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ethanc-dev
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning HTML and CSS
 - 📫 Reach me by dropping down an email to ethancolin.dev@gmail.com
 
